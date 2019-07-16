@@ -15,7 +15,11 @@ The project is whitelisted from open-sourcing its components and can use the com
 
 Coolstar associates  
 Definition  
-Anyone who has associated with Coolstar and/or Electra Team and/or its subsidiaries in any way including employment or outsourcing at any past, current, future time point.  
+Anyone who has associated with Coolstar and/or Electra Team and/or its subsidiaries in any way including employment or outsourcing at any past, current, future time point. 
+Exceptions  
+1 - Translators, UI-only/photograph designers are not included in this section.    
+2 - Who step out of Coolstar's/Electra team and against with Coolstar/Electra team.  
+Ps. You may want to check if you're in Whitelist.  
   
 Condition  
 You (or your company) is prohibited from directly using, reading any part of the source code/documentation or create any derivative from this piece of software.  
